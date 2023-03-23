@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Creo en rama principal
+=======
+Creo un archivo en Marta
+>>>>>>> Marta
